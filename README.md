@@ -17,7 +17,7 @@
 </div>
 
 ## Overview
-Chat WebUI is an open-source, locally hosted web application that puts the power of conversational AI at your fingertips with an intuitive interface for text, document, and vision models.
+Chat UI is an open-source, locally hosted web application that puts the power of conversational AI at your fingertips with an intuitive interface for text, document, and vision models.
 
 This fork focus on adding [tools](#smart-tools) to improve LLMs functionality, especially for small and local LLMs.
 
