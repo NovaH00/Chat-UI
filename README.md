@@ -21,6 +21,9 @@ Chat WebUI is an open-source, locally hosted web application that puts the power
 
 This fork focus on adding [tools](#smart-tools) to improve LLMs functionality, especially for small and local LLMs.
 
+![alt text](imgs\overview.png)
+<p><i>The above example use Qwen 2.5 7B Instruct, a relatively powerful 7 billion parameters model.</i></p>
+
 ## Key Features
 - **ChatGPT-inspired Interface**: Familiar, intuitive design with expanded capabilities
 - **Multi-Model Support**: Seamlessly switch between text and vision models
