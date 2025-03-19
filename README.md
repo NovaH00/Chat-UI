@@ -40,10 +40,10 @@ This fork focus on adding [tools](#smart-tools) to improve LLMs functionality, e
 
 ```bash
 # Clone the repository
-git clone https://github.com/Toy-97/Chat-WebUI.git
+git clone https://github.com/NovaH00/Chat-UI
 
 # Navigate to project directory
-cd Chat-WebUI
+cd Chat-UI
 
 # Install dependencies
 pip install -r requirements.txt
